@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en"
- unique-identifier="mahasi-sayadaw-meditation-teachers-diary"
+ unique-identifier="mahasi-meditation-teachers-diary"
  prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
   <metadata xmlns:opf="http://www.idpf.org/2007/opf"
         xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -11,9 +11,9 @@
     <dc:contributor>unknown</dc:contributor>
     <dc:publisher>[unknown]</dc:publisher>
     <dc:rights>???</dc:rights>
-    <dc:identifier id="mahasi-sayadaw-meditation-teachers-diary">https://eudoxos.github.io/mahasi-diary/</dc:identifier>
-    <dc:date>2022-11-19T19:34:51Z</dc:date>
-    <meta property="dcterms:modified">2022-11-19T19:34:51Z</meta>
+    <dc:identifier id="mahasi-meditation-teachers-diary">https://eudoxos.github.io/mahasi-diary/</dc:identifier>
+    <dc:date>2022-11-19T19:39:34Z</dc:date>
+    <meta property="dcterms:modified">2022-11-19T19:39:34Z</meta>
     <meta property="ibooks:version">0.1-work-in-progress</meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:binding">true</meta>
