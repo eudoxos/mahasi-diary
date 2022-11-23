@@ -393,73 +393,97 @@
         <text>Anuloma nana</text>
       </navLabel>
       <content src="diary.xhtml#anuloma-nana" />  
+      <navPoint id="navPoint65" playOrder="50">
+        <navLabel>
+          <text>Anuloma nana</text>
+        </navLabel>
+        <content src="diary.xhtml#anuloma-nana" />  
+      </navPoint>
+      <navPoint id="navPoint66" playOrder="51">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id11" />  
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint65" playOrder="51">
+    <navPoint id="navPoint67" playOrder="52">
       <navLabel>
         <text>Gotrabhu nana</text>
       </navLabel>
       <content src="diary.xhtml#gotrabhu-nana" />  
     </navPoint>
-    <navPoint id="navPoint66" playOrder="52">
+    <navPoint id="navPoint68" playOrder="53">
       <navLabel>
         <text>Magga nana</text>
       </navLabel>
       <content src="diary.xhtml#magga-nana" />  
     </navPoint>
-    <navPoint id="navPoint67" playOrder="53">
+    <navPoint id="navPoint69" playOrder="54">
       <navLabel>
         <text>Phala nana</text>
       </navLabel>
       <content src="diary.xhtml#phala-nana" />  
     </navPoint>
-    <navPoint id="navPoint68" playOrder="54">
+    <navPoint id="navPoint70" playOrder="55">
       <navLabel>
         <text>Ariya bhumi</text>
       </navLabel>
       <content src="diary.xhtml#ariya-bhumi" />  
-      <navPoint id="navPoint69" playOrder="54">
+      <navPoint id="navPoint71" playOrder="55">
         <navLabel>
           <text>Ariya bhumi</text>
         </navLabel>
         <content src="diary.xhtml#ariya-bhumi" />  
       </navPoint>
-      <navPoint id="navPoint70" playOrder="55">
+      <navPoint id="navPoint72" playOrder="56">
         <navLabel>
           <text>How to contemplate so as to reach quickly to the state of unconsciousness</text>
         </navLabel>
         <content src="diary.xhtml#how-to-contemplate-so-as-to-reach-quickly-to-the-state-of-unconsciousness" />  
       </navPoint>
-      <navPoint id="navPoint71" playOrder="56">
+      <navPoint id="navPoint73" playOrder="57">
         <navLabel>
           <text>How to to contemplate in that condition for a long time</text>
         </navLabel>
         <content src="diary.xhtml#how-to-to-contemplate-in-that-condition-for-a-long-time" />  
-      </navPoint>
-      <navPoint id="navPoint72" playOrder="57">
-        <navLabel>
-          <text>Three Types of Sotapanna</text>
-        </navLabel>
-        <content src="diary.xhtml#three-types-of-sotapanna" />  
+        <navPoint id="navPoint74" playOrder="57">
+          <navLabel>
+            <text>How to to contemplate in that condition for a long time</text>
+          </navLabel>
+          <content src="diary.xhtml#how-to-to-contemplate-in-that-condition-for-a-long-time" />  
+        </navPoint>
+        <navPoint id="navPoint75" playOrder="58">
+          <navLabel>
+            <text>Three Types of Sotapanna</text>
+          </navLabel>
+          <content src="diary.xhtml#three-types-of-sotapanna" />  
+        </navPoint>
+        <navPoint id="navPoint76" playOrder="59">
+          <navLabel>
+            <text>For example: three-day resolution period</text>
+          </navLabel>
+          <content src="diary.xhtml#for-example-three-day-resolution-period" />  
+        </navPoint>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint73" playOrder="58">
+    <navPoint id="navPoint77" playOrder="60">
       <navLabel>
         <text>Special note</text>
       </navLabel>
-      <content src="diary.xhtml#id11" />  
-      <navPoint id="navPoint74" playOrder="58">
+      <content src="diary.xhtml#id12" />  
+      <navPoint id="navPoint78" playOrder="60">
         <navLabel>
           <text>Special note</text>
         </navLabel>
-        <content src="diary.xhtml#id11" />  
+        <content src="diary.xhtml#id12" />  
       </navPoint>
-      <navPoint id="navPoint75" playOrder="59">
+      <navPoint id="navPoint79" playOrder="61">
         <navLabel>
           <text>Summary</text>
         </navLabel>
-        <content src="diary.xhtml#id12" />  
+        <content src="diary.xhtml#id13" />  
       </navPoint>
-      <navPoint id="navPoint76" playOrder="60">
+      <navPoint id="navPoint80" playOrder="62">
         <navLabel>
           <text>4 types of Jhayi-persons</text>
         </navLabel>
